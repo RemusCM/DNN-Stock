@@ -1,0 +1,4 @@
+data
+.vscode
+models/LSTM/data
+checkpoint.pth

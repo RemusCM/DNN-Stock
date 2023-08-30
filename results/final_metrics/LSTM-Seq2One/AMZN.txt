@@ -1,0 +1,28 @@
+Epoch 2000/2000, Evaluation report:
+              precision    recall  f1-score   support
+
+           0       0.45      0.47      0.46        88
+           1       0.66      0.65      0.65       144
+
+    accuracy                           0.58       232
+   macro avg       0.55      0.56      0.56       232
+weighted avg       0.58      0.58      0.58       232
+
+Epoch 2000/2000, Loss: 0.017366149450664396, Accuracy: 0.8939393939393939
+Training FPR: 0.05405405405405406, Training FDR: 0.034026465028355386
+Evaluation FPR: 0.5340909090909091, Evaluation FDR (How often we lose money): 0.3357142857142857
+Validation Accuracy: 0.5775862068965517
+Epoch 2000/2000, Evaluation report:
+              precision    recall  f1-score   support
+
+           0       0.37      0.39      0.38        88
+           1       0.61      0.60      0.61       144
+
+    accuracy                           0.52       232
+   macro avg       0.49      0.49      0.49       232
+weighted avg       0.52      0.52      0.52       232
+
+Epoch 2000/2000, Loss: 0.026438204902204086, Accuracy: 0.7878787878787878
+Training FPR: 0.14114114114114115, Training FDR: 0.09611451942740286
+Evaluation FPR: 0.6136363636363636, Evaluation FDR (How often we lose money): 0.38571428571428573
+Validation Accuracy: 0.5172413793103449

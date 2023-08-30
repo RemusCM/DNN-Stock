@@ -1,0 +1,14 @@
+Epoch 100/100, Evaluation report:
+              precision    recall  f1-score   support
+
+           0       0.53      0.86      0.66      1145
+           1       0.89      0.62      0.73      2220
+
+    accuracy                           0.70      3365
+   macro avg       0.71      0.74      0.69      3365
+weighted avg       0.77      0.70      0.70      3365
+
+Epoch 100/100, Loss: 0.43857890367507935, Accuracy: 0.7206537890044576
+Training FPR: 0.0745575221238938, Training FDR: 0.05756747523061155
+Evaluation FPR: 0.1423580786026201, Evaluation FDR (How often we lose money): 0.1066056245912361
+Validation Accuracy: 0.6977711738484398
